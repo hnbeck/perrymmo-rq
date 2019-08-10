@@ -1,0 +1,34 @@
+@startuml
+
+left to right direction
+
+(UC11 Neuanmeldung) as UC11
+(UC12 Spieleintritt) as UC12
+(UC13 Spielaustritt) as UC13
+(UC14 Spielen) as UC14
+(UC15 Kommunikation) as UC15
+
+(UC21 Expose Skript) as UC21
+(UC22 Ereignis auslösen) as UC22
+
+(UC31 Spielerausschluss) as UC31
+(UC32 Spieler rücksetzen) as UC32
+(UC33 Spieler rücksetzen) as UC33
+
+USER --> UC11
+USER --> UC12
+USER --> UC13
+USER --> UC14
+USER --> UC15
+
+UC14 ..> UC15  : include
+
+AUTHOR --> UC21
+AUTHOR --> UC22
+AUTHOR --> UC14
+
+ADMIN --> UC31
+ADMIN --> UC32
+ADMIN -->UC33
+
+@enduml
