@@ -2,7 +2,7 @@
 
 ### Version: V0.1
 
-Perry Rhodan ist ein grosse Universum, mit vielen Raumschiffen, Planeten, Völkern und Galaxien. Mit dem NGZ Online (Arbeitstitel, anderer Name Perry MMO) sollen Spieler die Geschichten um Perry Rhodan und anderen Hauptfiguren wie Atlan, Bull, Gucky und andere miterleben und mitgestalten zu können. Dabei Geschichte im Grossen, Aktionen von Entscheidern, Hauptfiguren oder Völkern wird dabei von Autoren gestaltet. Auf diese Weise entwickelt sich das Universum im Stile Perry Rhodans. Dennoch sollen Spieler reizvolle Abenteuer erleben können - Erstkontakt mit einer Spezies, Raumschlachten etc.
+Perry Rhodan ist ein grosse Universum, mit vielen Raumschiffen, Planeten, Völkern und Galaxien. Mit dem Perry MMO (Arbeitstitel) sollen Spieler die Geschichten um Perry Rhodan und anderen Hauptfiguren wie Atlan, Bull, Gucky und andere miterleben und mitgestalten zu können. Dabei Geschichte im Grossen, Aktionen von Entscheidern, Hauptfiguren oder Völkern wird dabei von Autoren gestaltet. Auf diese Weise entwickelt sich das Universum im Stile Perry Rhodans. Dennoch sollen Spieler reizvolle Abenteuer erleben können - Erstkontakt mit einer Spezies, Raumschlachten etc.
 
 ### Spielaufgabe
 
