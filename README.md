@@ -1,4 +1,4 @@
-# ECToBeTerranerRQ
+# Perry MMO RQ
 
 Here you can find a User Story based description of the Perry MMO Game in front. The goal is to define a technical concept for a prototype to gain initial experiences. Constraints and detailed goals for the concept are derived in the documents of this github project.
 
@@ -15,4 +15,4 @@ An initial description can be found here: https://www.educational-concepts.biz/p
 At this moment in time the game has no name. The working title is Perry MMO. 
 Because I have some Prolog experts in my Twitter timeline, development documentation will be English
 
-Start at main [UseCase](./UserStories/UseCase.png)
+Start at main [UseCase](./UserStories/MainUseCase.png)
