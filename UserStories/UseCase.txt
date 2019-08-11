@@ -2,18 +2,18 @@
 
 left to right direction
 
-(UC11 Neuanmeldung) as UC11
-(UC12 Spieleintritt) as UC12
-(UC13 Spielaustritt) as UC13
-(UC14 Spielen) as UC14
-(UC15 Kommunikation) as UC15
+(UC11 Create Account) as UC11
+(UC12 Enter game) as UC12
+(UC13 Leave game) as UC13
+(UC14 Play) as UC14
+(UC15 Communicate) as UC15
 
-(UC21 Expose Skript) as UC21
-(UC22 Ereignis auslösen) as UC22
+(UC21 Expose Script) as UC21
+(UC22 Event management) as UC22
 
-(UC31 Spielerausschluss) as UC31
-(UC32 Spieler rücksetzen) as UC32
-(UC33 Spieler rücksetzen) as UC33
+(UC31 Lockout account) as UC31
+(UC32 Reset account) as UC32
+(UC33 Reset game) as UC33
 
 USER --> UC11
 USER --> UC12

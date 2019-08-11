@@ -13,6 +13,6 @@ The main issue of the prototype is to evaluate gameplay, story quality and conce
 An initial description can be found here: https://www.educational-concepts.biz/project/perryrhodanmmo/
 
 At this moment in time the game has no name. The working title is Perry MMO. 
-The documents are in German, but this may change later.
+Because I have some Prolog experts in my Twitter timeline, development documentation will be English
 
 Start at main [UseCase](./UserStories/UseCase.png)
