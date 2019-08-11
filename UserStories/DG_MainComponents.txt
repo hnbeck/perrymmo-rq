@@ -27,7 +27,7 @@ node "server" {
 
 	IRDF <.. C03 : use
 	C02 .> ISIT : use
-	C02 ..> IHTP : use
+	C02 -- IHTP 
 	IOBS <. C01 : use
 	C03 .> IQRY : use
 }
@@ -39,21 +39,20 @@ node "client"  {
 	[UI] as C04
 	[Browser] as C05
 	
-	IHTP .> C04 : use
+	IHTP <. C04 : use
 	C04 .> IDOM : use
 	IDOM - C05 
 }
 
 note  bottom of C03
-	World models
-	state of world
-	and time
+	World models state 
+	of universe and
+    progress in time
 end note
 
 note top of C02
 	Renderer creates
 	a situation picture
-	as base for rendering
 end note
 
 note right of C01
