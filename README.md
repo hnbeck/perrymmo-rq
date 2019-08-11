@@ -4,15 +4,15 @@ Here you can find a User Story based description of the Perry MMO Game in front.
 
 The game is planned to be an adventure featuring an interaktive story telling. The prototype will have different stages of technical complexity: 
 
-- textbased
-- elementary graphics
-- Concept art graphics
+- text based, maybe with simple graphics and small mission
+- elementary graphics with bigger mission and more characters
+- Concept art graphics, at least a solar system and big gameplay
 
-The main issue of the prototype is to evaluate gameplay, story quality and concept of interactive SiFi story telling.
+The main issue of the prototype is to evaluate gameplay, story quality and concept of interactive SciFi story telling.
 
 An initial description can be found here: https://www.educational-concepts.biz/project/perryrhodanmmo/
 
 At this moment in time the game has no name. The working title is Perry MMO. 
 Because I have some Prolog experts in my Twitter timeline, development documentation will be English
 
-Start at main [UseCase](./UserStories/MainUseCase.png)
+Please start reading at description of the[Vision](.UserStories/Vision.md) and the main [UseCase](./UserStories/DG_UC_Main.png)

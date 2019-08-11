@@ -2,34 +2,47 @@
 
 ### Version: V0.1
 
-Perry Rhodan ist ein grosse Universum, mit vielen Raumschiffen, Planeten, Völkern und Galaxien. Mit dem Perry MMO (Arbeitstitel) sollen Spieler die Geschichten um Perry Rhodan und anderen Hauptfiguren wie Atlan, Bull, Gucky und andere miterleben und mitgestalten zu können. Dabei Geschichte im Grossen, Aktionen von Entscheidern, Hauptfiguren oder Völkern wird dabei von Autoren gestaltet. Auf diese Weise entwickelt sich das Universum im Stile Perry Rhodans. Dennoch sollen Spieler reizvolle Abenteuer erleben können - Erstkontakt mit einer Spezies, Raumschlachten etc.
+Perry Rhodan is a big universe including many spaceships, planets, societies and galaxies. Perry MMO (draft title) is intended to provide gamers means to experience and influence stories with Perry Rhodan, Atlan, Bull, Gucky and others. The storie on the level of galaxies like descition of leaders, main characters and societies is prescribed by autors. In this way the universe evolves. Any gamer should have the possibility to experience adventures like first contact with a different species, space battels and much more.
 
-### Spielaufgabe
 
-Die Spieler lösen Aufgaben. Diese Aufgaben können von den Hauptfiguren gestellt sein, es könnte aber auch eine Mission sein, die z.B. die Liga Freier Terraner bestellt hat. 
+### Task for the player
 
-### Spielmechanik
+The players solve quests. These quests can be commanded by main characters or it can be induced by missions initiated from something like Liga Freier Terraner etc.
 
-Die Spielmechanik soll zunächste die eines Text Adventures implementieren. Das ganze soll rein Browserbasiert sein. Wenn Grafik benötigt wird, soll sie HTML5 konform sein, mit WebGL oder SVG.
+### Game mechanics
 
-### Spielziel
 
-Erfüllen der Missionen und Aufgaben, natürlich überleben und ggf. Karrier machen. 
+The game works like an adventure. The player explores things, act in the range of a command set (and later in a graphics version action set). Gameplay shall be Web Browser only.
 
-### Ziel des Projektes
+### Condition of winning
 
-Beantwortung unten stehender Fragen, Ermittlung von technischen Randbedingungen und insbesondere Ausdefinition, was eine interaktives Erzählen im MMO Sektor überhaupt bedeuten kann.
+Stay alife, and fulfill missions. May be there is a carrer system, so you can achieve a own command. 
 
-### Fragen
+### Intention of the project
 
-Hier eine erste Sammlung von Fragen, deren Antwort zu finden Ziel des Projektes ist.
+Interactive story telling induces many questions, some are listed below. To find an answer to them, to evaluate constraints and design principls is intention of this project. It is therefore a precursor and pathfinder of project maybe comming in future.
 
- * Muss es unterschiedliche Ebenen von Ereignissen geben? Also Ereignisse, die von Autoren direkt in das Spiel eingebracht werden, und Ereignisse, die in einem gewissen Rahmen zufällig vom Spielsystem erzeugt werden ?
- * Ist ein Karrieresystem sinnvoll? Sollte es sein, dass ein Spieler mit der Spielzeit zu einem Kommandanten oder Chefwissenschaftler aufsteigen kann, der ein ganzes Raumschiff oder eine Institution leitet?
- * Wie verhindert man eine Überlastung der Autoren? Sie können nicht jede Einzelhandlung steuern, dafür müssten sie permanent online sein. Kann es ein Regelsystem oder Exposé System geben, das Autoren 1-2 im Monat erstellen, womit das Spiel dann eine entsprechende Zeit nur mit Spielern alleine laufen kann?
- * In wieweit ist für die Akzeptanz die Nähe zu den Heftromanen zentral? Was wäre aus rechtlicher bzw. lizenzrechtlicher Sicht nötig oder überhaupt möglich ?
- * In Perry Geschichten gibt es immer wieder mal Kämpfe. So etwas ist auch Teil von vielen Spielen. Welchen Stellenwert soll es bekommen, bzw. wie wäre es auszuführen? (Spieler als Besatzung einer 1 Mann Space Jet oder Teil der Besatzung eines 50m Kugelraumers, z.B. mit Freunden zusammen, oder Teil der Feueroffiziere in der Kommandozentrale einer Ras Tschubei oder SOL ?)
-  * Wie oft sollte eine Spieler eine Rolle wechseln können, oder Schiffe bzw. Planeten, in oder auf denen er handelt?
-  * Wird ein Fähigkeitensystem gebraucht, so dass man bestimmte Handlungen (im Spiel) erst erlernt, um dann eine Rolle annehmen zu können ?
+Beside this, it is also a trial out machine for working with my theory about rules and logical description of actions, like situation calculus or others implemented in Prolog.
+
+### Questions
+
+Here an initial list of questions with no logical order:
+
+* should ther be different levels of events ? There may be events prescribed by autors and events initiated by the system
+
+* is a career system useful? Should a player have the possibility to level up to a chief scientist or captain of a spaceship ? And if so, what whould be the relation to other players?
+
+* How to prevent a to hard involvment of autors? They can not prescribe every action. How to build an expose system or script system which allows to control the main story lines some weeks per script ?
+
+* How important will be strong relation to the Perry Rhodan publications for acceptance ? Which questions to licencse and law would trigger this?
+
+* Fights are a common part of Perry stories. Its also part of many games. Which priority should fights have. How will they performed ? Should a single player fight, or should a player as a team of a 50m Circle space ship fight ? Will he part of a command deck crew?
+
+* How often the player may change its role, a planet or a ship? Should this even be possible?
+
+* Is a capability system necessary, which would induce that some action or a role could only be done if some capability is developed ?
+  
+
+There may be a lot more questions during the project. They will be recorded as design constraints.
 
 
