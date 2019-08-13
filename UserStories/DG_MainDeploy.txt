@@ -1,0 +1,35 @@
+@startuml
+
+
+node "server" {
+	package "Prolog" {
+		[RDF] as C07
+		[Rule Engine] as C01
+		[World] as C03
+	}
+
+
+	package "Erlang" {
+		[Renderer]  as C02
+
+	}
+}
+
+node "client"  {
+	
+	package "Processing.js" {
+		[UI] as C04
+	}
+
+	[Browser] as C05
+}
+
+note  top of C03
+	World maybe better in Erlang?
+end note
+
+note  top of C04
+	Or something similar like pixi.js
+end note
+
+@enduml
