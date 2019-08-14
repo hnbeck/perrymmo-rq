@@ -7,14 +7,15 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+** Related to User Story UC ... or Requirement ... **
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+** User Story **
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+** User Value **
+
+** What is needed **
+
+** What to be discussed in detail **
+
+**Additional context or information**
