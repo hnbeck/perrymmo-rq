@@ -3,14 +3,14 @@
 
 node "server" {
 	package "Prolog" {
-		[RDF] as C07
-		[Rule Engine] as C01
-		[World] as C03
+		[C07 RDF] as C07
+		[C01 Rule Engine] as C01
+		[C03 World] as C03
 	}
 
 
 	package "Erlang" {
-		[Renderer]  as C02
+		[C02 Renderer]  as C02
 
 	}
 }
@@ -18,7 +18,7 @@ node "server" {
 node "client"  {
 	
 	package "Processing.js" {
-		[UI] as C04
+		[C04 UI] as C04
 	}
 
 	[Browser] as C05

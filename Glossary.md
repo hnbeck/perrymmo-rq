@@ -18,6 +18,7 @@ NF:  Non-functional Requirement
 LV:  Architecture Level, L0 is System level  
 DC:  Designconstraint
 DG:	 Diagram
+RL:  Readyness Level, a measure how far a text or concept is developed (early draft, draft, complete, applicable)
 
 ### Nummerierungsschema
 

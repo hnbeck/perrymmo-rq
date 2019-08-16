@@ -1,8 +1,9 @@
 ## Vision
+## RL: draft
 
 ### Version: V0.1
 
-Perry Rhodan is a big universe including many spaceships, planets, societies and galaxies. Perry MMO (draft title) is intended to provide gamers means to experience and influence stories with Perry Rhodan, Atlan, Bull, Gucky and others. The storie on the level of galaxies like descition of leaders, main characters and societies is prescribed by autors. In this way the universe evolves. Any gamer should have the possibility to experience adventures like first contact with a different species, space battels and much more.
+Perry Rhodan is a big universe including many spaceships, planets, societies and galaxies. EC Perry MMO (draft title) is intended to provide gamers means to experience and influence stories with Perry Rhodan, Atlan, Bull, Gucky and others. The storie on the level of galaxies like descition of leaders, main characters and societies is prescribed by autors. In this way the universe evolves. Any gamer should have the possibility to experience adventures like first contact with a different species, space battels and much more.
 
 
 ### Task for the player
