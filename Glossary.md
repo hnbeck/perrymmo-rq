@@ -1,11 +1,11 @@
 ## Glossary
 
-EDUCON    	Educational Concepts Website
-USER      	Jede Person, die den Web browser benutzt
-AUTHOR		Jede Person, die Funktionalität implementiert oder Spieldesign betreibt
-CANVAS 		Der Bereich in der Website, in der das Spiel gerender wird und abläuft
-ADMIN		Administrator des Systems, aber nicht des Hostsystems
-
+EDUCON    		Educational Concepts Website
+USER      		Jede Person, die den Web browser benutzt
+AUTHOR			Jede Person, die Funktionalität implementiert oder Spieldesign betreibt
+CANVAS 			Der Bereich in der Website, in der das Spiel gerender wird und abläuft
+ADMIN			Administrator des Systems, aber nicht des Hostsystems
+Main Character 	One of the characters played by Autors like Perry Rhodan, Gucky, Atlan etc.
 
 ### Bezeichner
 
