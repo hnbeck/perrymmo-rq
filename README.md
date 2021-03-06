@@ -12,4 +12,4 @@ The main issue of the prototype is to evaluate gameplay, story quality and conce
 
 At this moment in time the game has no name. The working title is EC Perry MMO. 
 
-Please start reading at description of the [Vision](./UserStories/Vision.md) and the main [UseCase](./UserStories/DG_UC_Main.png)
+
