@@ -15,10 +15,6 @@ Croquet was implemented in Squeak Smalltalk. I want to know if it is possible to
 # Rule system
 Basic element of the game mechanics are so-called rules. The rules have the form of "IF fact THEN consequence". Rules shall control everything from physics, character development, environment development up to behaviour rules like in any desktop game ("Brettspiel"). Therefore, an Prolog system which can implement rules efficiently and is also a system capable of reflection and meta programming shall be included in the technology stack.
 
+# AR
+Augmented Reality will be as early as possible part of the system. There are interesting products available in Germany in 2021. 
 
-# Requirements
-
-Assuming a "node" is a computational unit for playing Perry MMO like PC, mobile Phone, AR device. Then: 
-
--  RT01: The network of nodes shall be designed such that a node can be added to the network of nodes or deleted from the network. If added, the new node shall get all updates of the current state of gaming world. If deleted, the last state related to the player associated with the noded shall be saved.
--  RT02: the messages (later the replication) shall build from queries asking for a fact. A Fact can be some data like position of spaceships or planets, but it can also complexer things. If a message is received a query is done.

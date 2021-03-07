@@ -1,13 +1,13 @@
 ## Glossary
 
-EDUCON    		Educational Concepts Website
-USER      		Jede Person, die den Web browser benutzt
-AUTHOR			Jede Person, die Funktionalität implementiert oder Spieldesign betreibt
-CANVAS 			Der Bereich in der Website, in der das Spiel gerender wird und abläuft
-ADMIN			Administrator des Systems, aber nicht des Hostsystems
-Main Character 	One of the characters played by Autors like Perry Rhodan, Gucky, Atlan etc.
+EC    			Educational Concepts, my old web site now titles 'nikosophy.online'
+PLAYER      	A Person playing the game
+AUTHOR			A person designing a story line for and in the game
+CANVAS 			Render area for the game
+ADMIN			Administrator of the game
+MC				Main Character = One of the characters played by Autors like Perry Rhodan, Gucky, Atlan etc.
 
-### Bezeichner
+### Identifier
 
 UC:  Use Case  
 US:  User Story  
@@ -20,18 +20,13 @@ DC:  Designconstraint
 DG:	 Diagram
 RL:  Readyness Level, a measure how far a text or concept is developed (early draft, draft, complete, applicable)
 
-### Nummerierungsschema
+### Scheme of numbering
 
-*XXNN-YYMM-Name*  
+*XXNN-Name* or *XXNN-YY-Name*
 
-oder
+meaning
 
-*XXNN-Name*
-
-mit
-
-*XX:*  UC,  DC  
-*YY:*  US, RQ, NF, bezogen auf *XX*
-*MM:*  Fortlaufende NUmmer
-*NN:*  Fortlaufende Nummer
-*Name:* Bezeichner für das YY
+*XX:*	Identifier like UC,  DC  
+*YY:*	as XX indicating what XX shows. DG-UC means use case diagram
+*NN:*	sequent number
+*Name:*	a name indicating the topic
